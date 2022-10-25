@@ -110,9 +110,4 @@ public class DataGetter
         assert temp != null;
         return temp.getListMetalls();
     }
-
-    public static void main(String[] args)
-    {
-        getCurrencyOneDay("06/03/2021");
-    }
 }
